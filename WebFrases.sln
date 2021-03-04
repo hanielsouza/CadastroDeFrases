@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFrases", "WebFrases\WebFrases.csproj", "{96CA513C-E7FB-4562-92BF-3F0C8D14E66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96CA513C-E7FB-4562-92BF-3F0C8D14E66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CA513C-E7FB-4562-92BF-3F0C8D14E66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CA513C-E7FB-4562-92BF-3F0C8D14E66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CA513C-E7FB-4562-92BF-3F0C8D14E66A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2158D524-722A-4D97-A224-2B09AE1FCD3E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/hanielsouza
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebFrases\\WebFrases.csproj
+		SccProjectName1 = WebFrases
+		SccLocalPath1 = WebFrases
+	EndGlobalSection
+EndGlobal
